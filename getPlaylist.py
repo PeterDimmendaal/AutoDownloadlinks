@@ -20,7 +20,7 @@ try:
 except:
     print("Something went wrong, check if the playlist id is correct and you have a working connection")
 
-
+input()
 
     
 
